@@ -1,0 +1,23 @@
+Type	Size	Fare	customer	Discount	Stop
+First	40	60000	Businessman	Not Available	2
+Bsn	30	30000	others	Available	3
+Eco	30	15000	others	Not Available	1
+Prm	40	50000	Businessman	Not Available	3
+Bsn	80	50000	Businessman	Available	2
+Eco	50	60000	Businessman	Not Available	2
+First	30	50000	Businessman	Not Available	2
+Prm	30	60000	Businessman	Not Available	1
+Prm	80	30000	others	Not Available	1
+First	50	15000	others	Not Available	2
+Bsn	40	30000	others	Available	1
+Eco	50	50000	Businessman	Not Available	3
+Eco	80	60000	Businessman	Not Available	3
+Prm	50	15000	others	Not Available	2
+Eco	40	30000	others	Not Available	2
+Bsn	50	60000	Businessman	Available	1
+Bsn	40	15000	others	Available	3
+Bsn	50	30000	others	Available	2
+Prm	80	15000	others	Not Available	3
+First	80	50000	Businessman	Not Available	2
+Prm	40	50000	Businessman	Not Available	1
+First	50	30000	others	Not Available	2
