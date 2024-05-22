@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite" parallel="classes">
+    <test thread-count="2" name="Tests">
+        <parameter name="sUsername" value="admin"/>
+        <parameter name="sPassword" value="pa$$w0rd"/>
+        <classes>
+            <class name="testNGActivity14"/>
+        </classes>
+    </test>
+</suite>
